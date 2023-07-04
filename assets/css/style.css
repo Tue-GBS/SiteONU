@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;400;600;800&family=Lato:wght@100;400;700&family=Mulish:wght@300;400;700&family=Red+Hat+Display:wght@300;400;700&family=Roboto:wght@100;300;400;500;700&display=swap');
+
+* {
+font-family: 'Inconsolata', monospace;
+font-family: 'Lato', sans-serif;
+font-family: 'Mulish', sans-serif;
+font-family: 'Red Hat Display', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.sumary {
+    background-color: #f2f2f2;
+    margin: 28vw;
+    margin-top: auto;
+    margin-bottom: 18px;
+}
+
+.btn {
+    margin-left: 200px;
+    display: inline-flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .btn img {
+    width: 20px; 
+    height: 20px;
+    margin-right: 5px;
+  }
+  
+  .btn span {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .linha {
+    border-top: 5px solid #009ed8;
+    margin: 7px 0;
+  }
+
+  .linha-nav {
+    border-top: 1px solid #E8E8E8;
+    margin: 1px 0;
+  }
+
+  .navbar {
+    display: flex;
+    padding: 10px;
+    font-size: 23px;
+    justify-content: center;
+  }
+  
+  .nav-link {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    gap: 30px;
+  }
+
+.nav-link a {
+    text-decoration: none;
+    color: #000;
+    border-bottom: 2px solid transparent;
+}
+
+.nav-link a:hover {
+    border-bottom: 5px solid #009ed8;
+}
