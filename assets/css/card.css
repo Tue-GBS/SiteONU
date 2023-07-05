@@ -1,17 +1,16 @@
 .container-card {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
 
 .iniciativas {
-    margin: 10px;
-    width: 250px;
-    height: 250px;
-    padding: 15px;
+    margin: .625rem;
+    width: 15.625rem;
+    height: 15.625rem;
+    padding: .9375rem;
     background-color: #E8E8E8;
-    border-radius: 5px;
+    border-radius: .3125rem;
     font-weight: 300;
 }
 
@@ -21,15 +20,34 @@
 }
 
 .inicio-card {
-    margin-left: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .card-img img {
-    width: 80%;
-    border-radius: 5px;
+    max-width: 100%;
+    border-radius: .3125rem;
 }
 
 .card-text h2 {
-    font-size: 20px;
-    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iniciativas-relacionadas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iniciativas-card {
+    margin: .625rem;
+    max-width: 25rem;
+    height: 15.625rem;
+    padding: .9375rem;
+    background-color: #E8E8E8;
+    border-radius: .3125rem;
+    font-weight: 300;
 }
