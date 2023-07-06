@@ -17,15 +17,6 @@ html, body {
   background: linear-gradient(180deg, #fffdf3 62%, #dda15e 100%);
 }
 
-.sumary {
-    background-color: #F7F7F7;
-    margin: 3% auto;
-    margin-left: 13.75rem;
-    margin-right: 17.5rem;
-    margin-bottom: 18px;
-    line-height: 30px;
-}
-
 .introducao  {
    margin-top: .3125rem;
    margin-right: 14.375rem;
@@ -104,19 +95,13 @@ html, body {
     border-bottom: 5px solid #009739;
 }
 
-@media (max-width: 1600px) {
+@media only screen and (max-width: 767px) {
   .introducao {
-    text-align: center;
-    padding: .9375rem;
-    margin: 0;
+    margin: 0.3125rem;
+    line-height: 1.5rem;
   }
 
   .introducao h1 {
-    font-size: 1.25rem;
-    margin-bottom: .9375rem;
-  }
-
-  .introducao p {
-    font-size: .8125rem;
+    text-align: left;
   }
 }
