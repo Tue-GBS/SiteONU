@@ -4,8 +4,17 @@
   font-family: 'Poppins', sans-serif;
 }
 
+html, body {
+  width: 100%;
+  max-width: 100vw;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
 .layout-pag {
   background-color: #fffdf3;
+  background: linear-gradient(180deg, #fffdf3 62%, #dda15e 100%);
 }
 
 .sumary {
@@ -93,4 +102,20 @@
 
 .nav-link a:hover {
     border-bottom: 5px solid #009739;
+}
+
+@media (max-width: 1600px) {
+  .introducao {
+    text-align: center;
+    padding: .9375rem;
+  }
+
+  .introducao h1 {
+    font-size: 1.25rem;
+    margin-bottom: .9375rem;
+  }
+
+  .introducao p {
+    font-size: .8125rem;
+  }
 }

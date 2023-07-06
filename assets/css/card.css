@@ -36,7 +36,7 @@
 
 .iniciativas-card {
     margin: .625rem;
-    max-width: 21.25rem;
+    width: 21.25rem;
     height: 19.375rem;
     padding: .9375rem;
     background-image: url(../img/card/cardMASTER.png);
@@ -52,3 +52,4 @@
 .iniciativas-card:hover {
     transform: scale(1.1);
 }
+
