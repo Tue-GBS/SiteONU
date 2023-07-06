@@ -1,20 +1,11 @@
 .container-card {
     display: flex;
+    grid-template-columns: repeat(auto-fir, minmax(300px, 1fr));
     justify-content: center;
     align-items: center;
 }
 
-.iniciativas {
-    margin: .625rem;
-    width: 15.625rem;
-    height: 15.625rem;
-    padding: .9375rem;
-    background-color: #E8E8E8;
-    border-radius: .3125rem;
-    font-weight: 300;
-}
-
-.iniciativas a {
+.iniciativas-card a {
     text-decoration: none;
     color: #000;
 }
@@ -30,10 +21,11 @@
     border-radius: .3125rem;
 }
 
-.card-text h2 {
+.card-text h2, h4 {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #fff;
 }
 
 .iniciativas-relacionadas {
@@ -44,10 +36,19 @@
 
 .iniciativas-card {
     margin: .625rem;
-    max-width: 25rem;
-    height: 15.625rem;
+    max-width: 21.25rem;
+    height: 19.375rem;
     padding: .9375rem;
-    background-color: #E8E8E8;
+    background-image: url(../img/card/cardMASTER.png);
     border-radius: .3125rem;
-    font-weight: 300;
+    
+    transition: transform 0.1s ease-in-out;
+}
+
+.iniciativas-card img {
+    border-radius: .3125rem;
+}
+
+.iniciativas-card:hover {
+    transform: scale(1.1);
 }
