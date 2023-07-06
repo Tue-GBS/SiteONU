@@ -99,9 +99,11 @@ html, body {
   .introducao {
     margin: 0.3125rem;
     line-height: 1.5rem;
+    font-size: .75rem;
   }
 
   .introducao h1 {
     text-align: left;
+    font-size: .9375rem;
   }
 }
