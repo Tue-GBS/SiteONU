@@ -4,7 +4,7 @@
   font-family: 'Poppins', sans-serif;
 }
 
-.layout-pag {
+body {
   background-color: #fffdf3;
   background: linear-gradient(180deg, #fffdf3 70%, #dda15e 100%);
 }
