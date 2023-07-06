@@ -58,8 +58,8 @@
 
 @media only sreen and (max-width: 767px) {
     .container-card {
-      width: 215px;
-      height: 180px;
+      width: 150px;
+      height: 110px;
       margin: 0 auto;
     }
 }
