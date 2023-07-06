@@ -1,6 +1,5 @@
 .container-card {
     display: flex;
-    grid-template-columns: repeat(auto-fir, minmax(300px, 1fr));
     justify-content: center;
     align-items: center;
 }
@@ -40,6 +39,10 @@
     height: 19.375rem;
     padding: .9375rem;
     background-image: url(../img/card/cardMASTER.png);
+    background-position: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
     border-radius: .3125rem;
     
     transition: transform 0.1s ease-in-out;
@@ -53,3 +56,10 @@
     transform: scale(1.1);
 }
 
+@media only sreen and (max-width: 767px) {
+    .container-card {
+      width: 215px;
+      height: 180px;
+      margin: 0 auto;
+    }
+}
