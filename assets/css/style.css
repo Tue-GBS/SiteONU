@@ -120,6 +120,10 @@ body {
     cursor: pointer;
   }
 
+  .menu-mobile bottom {
+    outline: none;
+  }
+
   .mobile ul {
     display: flex;
     flex-direction: column;
