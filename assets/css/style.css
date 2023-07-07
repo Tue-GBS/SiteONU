@@ -100,6 +100,12 @@ body {
 }
 
 @media only screen and (max-width: 767px) {
+
+  body {
+    background-color: #fffdf3;
+    background: linear-gradient(180deg, #fffdf3 38%, #dda15e 95%);
+  }
+
   .navbar {
     padding: 1.5rem 4rem;
   }
