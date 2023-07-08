@@ -5,9 +5,8 @@
 }
 
 body {
-  /* background-color: #fffdf3;
-  background: linear-gradient(180deg, #fffdf3 45%, #dda15e 95%);  */
-  background-color: purple;
+  background-color: #fffdf3;
+  background: linear-gradient(180deg, #fffdf3 45%, #dda15e 95%); 
 }
 
 .introducao {
