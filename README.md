@@ -8,8 +8,6 @@ Este é um projeto onde apresentamos as ações do Brasil para ter um país sust
 Então decidimos usar nossos conhecimentos em desenvolvimento web para fazer nossa aprensentação da feira de ciências
 uma coisa bem divertida.
 
-## Screenshots
-
 ![Screenshot do site](assets/img/Banner-prin.jpg)
 
 ## Como acessar:
@@ -17,18 +15,11 @@ uma coisa bem divertida.
 1. Abra nosso projeto pelo link: [Projeto](https://site-onu.vercel.app/)
 2. Navegue pela barra superior ou cards encontrados quando desliza a tela
 
-## Uso
-
-O site replica as principais funcionalidades do site oficial da ONU. Você pode navegar pelas diferentes seções, ler artigos, assistir a vídeos e explorar recursos interativos.
-
-## Contribuição
-
-Contribuições são bem-vindas! Se você quiser contribuir para este projeto, por favor, abra um problema ou envie uma solicitação de pull request seguindo as diretrizes de contribuição.
-
 ## Autores
 
-- João Silva [@joaosilva](https://github.com/joaosilva)
-- Maria Santos [@mariasantos](https://github.com/mariasantos)
+- Ricardo Batista [@RicardoFonse](https://github.com/RicardoFonse)
+- João Marcelo [@JaoMar1301](https://github.com/JaoMar1301)
+- Mateus Gonçalves [@Tue-GBS](https://github.com/Tue-GBS)
 
 ## Agradecimentos
 
