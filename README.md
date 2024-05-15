@@ -1,21 +1,21 @@
 # Projeto Agenda 2030 no Brasil
 
-Projeto Escolar: Site Inspirado na ONU infomando sobre cidades e comuninidades sustentaveis
-### Abra o nosso site
-[link](https://site-onu.vercel.app/)
+Projeto para feira de ciências escolar: Site Inspirado na ONU infomando sobre cidades e comuninidades sustentaveis
+
 ## Descrição
 
-Este é um projeto escolar onde recriamos o site oficial das Nações Unidas como parte de um exercício de aprendizado. Utilizamos HTML, CSS e JavaScript para replicar as funcionalidades e o design básico do site da ONU.
+Este é um projeto onde apresentamos as ações do Brasil para ter um país sustentavel.
+Então decidimos usar nossos conhecimentos em desenvolvimento web para fazer nossa aprensentação da feira de ciências
+uma coisa bem divertida.
 
 ## Screenshots
 
-![Screenshot do site](./screenshots/screenshot.png)
+![Screenshot do site](assets/img/Banner-prin.jpg)
 
-## Instalação
+## Como acessar:
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
-2. Navegue até o diretório do projeto: `cd nome-do-repositorio`
-3. Abra o arquivo `index.html` em um navegador da web.
+1. Abra nosso projeto pelo link: [Projeto](https://site-onu.vercel.app/)
+2. Navegue pela barra superior ou cards encontrados quando desliza a tela
 
 ## Uso
 
