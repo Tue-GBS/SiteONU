@@ -21,18 +21,10 @@ uma coisa bem divertida.
 - João Marcelo [@JaoMar1301](https://github.com/JaoMar1301)
 - Mateus Gonçalves [@Tue-GBS](https://github.com/Tue-GBS)
 
-## Agradecimentos
-
-Agradecemos ao nosso professor de programação por nos orientar durante o desenvolvimento deste projeto.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
 ## Notas Adicionais
 
 Este projeto foi desenvolvido como parte de um exercício escolar e não tem afiliação oficial com as Nações Unidas.
 
 ## Contato
 
-Se você tiver alguma dúvida ou feedback, sinta-se à vontade para entrar em contato conosco através do email: exemplo@email.com.
+Se você tiver alguma dúvida ou feedback, sinta-se à vontade para entrar em contato conosco através do email: dmateus132005@gmail.com.
